@@ -16,7 +16,7 @@ manually to jot it down in a ledger.
 ## TECH STACK:
 Language: Python
 Object detection : YOLO V4
-Text Recognition : Tesseract OCR
+Text Recognition : Tesseract OCR LSTM
 Environment: Google Colab
 
 ## APPROACH:
